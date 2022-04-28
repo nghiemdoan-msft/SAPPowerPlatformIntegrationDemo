@@ -25,6 +25,7 @@ https://developers.sap.com/tutorials/gateway-demo-signup.html
 
 ## How to install the solution from App Source
 [![How to install SAP and Power Platform Integration Demo App Video](https://i.ytimg.com/vi/z87QKX2JGIk/hqdefault.jpg)](https://www.youtube.com/watch?v=z87QKX2JGIk)
+
 Support Doc: [How to install SAP and Power Platform Integration Demo App from App Source](/documents/HowToInstallSAPandPowerPlatformIntegrationDemoApp.pdf) 
 
 ## Demo Scenarios
