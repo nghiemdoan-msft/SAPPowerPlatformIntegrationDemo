@@ -16,12 +16,16 @@ In this app, we use 2 methods to connect to SAP.
 * Create new Sales order and Sales order line items in SAP
 * PVA Bot to query Product Data from SAP System based on Product Code
 
-## Demo
-[![SAP and Power Platform Integration Demo App Video](https://i.ytimg.com/vi/a1_kEUVjVYo/hqdefault.jpg)](https://www.youtube.com/watch?v=a1_kEUVjVYo)
-
 ## Prerequisite
 You will need an SAP system for this integration. Here are the instructions to create an account on SAP Gateway Demo System (ES5):
 https://developers.sap.com/tutorials/gateway-demo-signup.html
+
+## Demo
+[![SAP and Power Platform Integration Demo App Video](https://i.ytimg.com/vi/a1_kEUVjVYo/hqdefault.jpg)](https://www.youtube.com/watch?v=a1_kEUVjVYo)
+
+## How to install the solution from App Source
+[![How to install SAP and Power Platform Integration Demo App Video](https://i.ytimg.com/vi/z87QKX2JGIk/hqdefault.jpg)](https://www.youtube.com/watch?v=z87QKX2JGIk)
+Support Doc: [How to install SAP and Power Platform Integration Demo App from App Source](/documents/HowToInstallSAPandPowerPlatformIntegrationDemoApp.pdf) 
 
 ## Demo Scenarios
 ### Scenario 1 
